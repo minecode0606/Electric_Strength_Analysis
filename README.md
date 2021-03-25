@@ -2,7 +2,7 @@
 |Number|Title|Description|
 |:---:|:---|:---|
 |1|[실험 데이터 분석](https://github.com/minecode0606/Electric_Strength_Analysis/blob/main/Data_Analytics.ipynb)|데이터 분석을 통해 실험 결과를 도출합니다.|
-
+|2|[저항계산](https://github.com/minecode0606/Electric_Strength_Analysis/blob/main/Amoere_and_Voltage.ipynb)
 
 ## 소개
 이 repository는 2015년 개정교육과정 2학년 1학기 2단원 전기와 자기中
